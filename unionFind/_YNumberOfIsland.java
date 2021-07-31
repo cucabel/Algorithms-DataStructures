@@ -66,5 +66,3 @@ public class _YNumberOfIsland {
  * Answer: 3
  * 
  */
- 
- I am triying something
